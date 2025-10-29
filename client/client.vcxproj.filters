@@ -24,12 +24,24 @@
     <ClCompile Include="TcpClient.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="database.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="users_database.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="connecter.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="TcpClient.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="database.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="users_database.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

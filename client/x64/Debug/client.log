@@ -1,5 +1,2 @@
-﻿  connecter.cpp
-  main.cpp
-  TcpClient.cpp
-  正在生成代码...
+﻿  users_database.cpp
   client.vcxproj -> C:\vsProject\project\Client\client\x64\Debug\client.exe
